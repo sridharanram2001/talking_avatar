@@ -1,0 +1,9 @@
+/*.text-container{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+    border: 1px solid black;
+}
+.text-container *{
+    align-self: auto;
+}*/
